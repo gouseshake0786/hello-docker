@@ -1,6 +1,6 @@
 var builder = WebApplication.CreateBuilder(args);
 var app = builder.Build();
 
-app.MapGet("/", () => "Hello Docker!");
+app.MapGet("/", () => "Hello from Jenkins CICD!");
 
 app.Run();
