@@ -1,0 +1,6 @@
+C:\Users\gouse\Desktop\Learning_Path\Docker\hello-docker\published\appsettings.Development.json
+C:\Users\gouse\Desktop\Learning_Path\Docker\hello-docker\published\appsettings.json
+C:\Users\gouse\Desktop\Learning_Path\Docker\hello-docker\published\hello-docker.dll
+C:\Users\gouse\Desktop\Learning_Path\Docker\hello-docker\published\hello-docker.deps.json
+C:\Users\gouse\Desktop\Learning_Path\Docker\hello-docker\published\hello-docker.runtimeconfig.json
+C:\Users\gouse\Desktop\Learning_Path\Docker\hello-docker\published\hello-docker.pdb
